@@ -1,0 +1,21 @@
+/**
+ * @file
+ * Overall specifications for RockHeavy.org
+ */
+
+@font-face {
+    font-family: 'Neon';
+    src: url('/themes/rockheavy/fonts/neon-webfont.eot');
+    src: url('/themes/rockheavy/fonts/neon-webfont.woff') format('woff');
+
+body {
+  min-height: 100%;
+  line-height: 1.5;
+  word-wrap: break-word;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-size: 100%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Georgia, "Times New Roman", Times, serif;
+}
